@@ -1,0 +1,24 @@
+# QuestaSim / ModelSim simulation artifacts
+work/
+vsim.wlf
+transcript
+*.mpf
+*.mpf_new
+*.cr.mti
+*.qdb
+*.qpg
+*.qtl
+*.wlf
+*.vstf
+
+# Archives / dumps
+*.rar
+*.zip
+certe_dump.xml
+
+# OS / editor files
+.DS_Store
+Thumbs.db
+*.swp
+.vscode/
+.idea/
